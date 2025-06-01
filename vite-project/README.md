@@ -58,6 +58,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/Himanshubhadoria11/To-Do-List-App.git
+cd To-Do-List-App
 cd vite-project
 npm install
 npm run dev
