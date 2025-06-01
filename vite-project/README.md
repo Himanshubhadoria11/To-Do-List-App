@@ -23,15 +23,22 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Himanshubhadoria11/To-Do-List-App.git
    ```
 
 2. Navigate to the project folder:
+     <!-- both cd  -->
+
+   ```bash
+   cd To-Do-List-App
+
+   ```
 
    ```bash
    cd vite-project
-   ```
 
+   ```
+    
 3. Install dependencies:
 
    ```bash
@@ -50,7 +57,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-vite-todo.git
+git clone https://github.com/Himanshubhadoria11/To-Do-List-App.git
 cd vite-project
 npm install
 npm run dev
